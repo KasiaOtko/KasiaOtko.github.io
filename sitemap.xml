@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://KasiaOtko.github.io/bokehplots/</loc>
+    <loc>https://KasiaOtko.github.io/alshabaab/</loc>
+    <lastmod>2021-05-10T21:13:51+02:00</lastmod>
+  </url><url>
+    <loc>https://KasiaOtko.github.io/geodata/</loc>
+    <lastmod>2021-05-10T21:12:25+02:00</lastmod>
+  </url><url>
+    <loc>https://KasiaOtko.github.io/intro/</loc>
     <lastmod>2021-05-04T15:08:11+02:00</lastmod>
+  </url><url>
+    <loc>https://KasiaOtko.github.io/home/</loc>
   </url><url>
     <loc>https://KasiaOtko.github.io/categories/</loc>
   </url><url>
     <loc>https://KasiaOtko.github.io/</loc>
-  </url><url>
-    <loc>https://KasiaOtko.github.io/home/</loc>
   </url><url>
     <loc>https://KasiaOtko.github.io/tags/</loc>
   </url>
