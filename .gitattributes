@@ -1,3 +1,4 @@
 fonts/**    linguist-generated=true
 fonts/**     -diff -merge
+geodata/index.md filter=lfs diff=lfs merge=lfs -text
 geodata/index.html filter=lfs diff=lfs merge=lfs -text
