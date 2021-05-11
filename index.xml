@@ -41,7 +41,8 @@ There are a couple of interesting things to see here.</description>
       <pubDate>Mon, 10 May 2021 21:12:25 +0200</pubDate>
       
       <guid>https://KasiaOtko.github.io/geodata/</guid>
-      <description></description>
+      <description>We created interactive maps in Bokeh to see how conflicts in Africa are related to the position. Base on them we have opportunity to investigate the relative position of the countries, their size, and other geographical properties.
+In the map above we can see the total number of conflicts for each country. The most noticeable is the intense color of Somalia which means that there were much more conflicts there than in other places in Africa.</description>
     </item>
     
     <item>
