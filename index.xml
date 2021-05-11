@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://KasiaOtko.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Actors</title>
+      <link>https://KasiaOtko.github.io/actors/</link>
+      <pubDate>Tue, 11 May 2021 18:51:14 +0200</pubDate>
+      
+      <guid>https://KasiaOtko.github.io/actors/</guid>
+      <description>Temporal patterns In this section we will dive deeper into different dimensions of this dataset and present the most interesting findings. We will start by investigating the temporal patterns of each of the conflict types. Can we observe any intresting trends in case of some of them?
+We decided to use a combination of a line plot with a bar plot to present the relationships between average number of deaths and number of events in time.</description>
+    </item>
+    
+    <item>
       <title>Models</title>
       <link>https://KasiaOtko.github.io/models/</link>
       <pubDate>Tue, 11 May 2021 17:40:23 +0200</pubDate>
