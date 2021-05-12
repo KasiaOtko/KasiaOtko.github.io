@@ -41,12 +41,12 @@ There are a couple of interesting things to see here.</description>
       <pubDate>Mon, 10 May 2021 21:12:25 +0200</pubDate>
       
       <guid>https://KasiaOtko.github.io/geodata/</guid>
-      <description>In this subsection we were forced to present our fantastic maps as gifs since the resulting size of html code exceeded 500 MB and thus it was impossible to push it to the git repository. However, you can still see them in the notebook (LINK HERE) and have fun using all of their interactive features.
-We created interactive maps in Bokeh to see how conflicts in Africa are related to the location.</description>
+      <description>In this subsection we were forced to present our fantastic maps as gifs since the resulting size of html code exceeded 500 MB and thus it was impossible to push it to the git repository.
+We created interactive maps in Bokeh to see how conflicts in Africa are related to the location. Based on them we have the opportunity to investigate the relative position of the countries, their size, and other geographical properties.</description>
     </item>
     
     <item>
-      <title>Introduction</title>
+      <title>Exploring countries</title>
       <link>https://KasiaOtko.github.io/intro/</link>
       <pubDate>Tue, 04 May 2021 15:08:11 +0200</pubDate>
       
@@ -61,7 +61,8 @@ Both visualizations with selecting countries give us an opportunity to investiga
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://KasiaOtko.github.io/home/</guid>
-      <description>Analysis and visualisation of Conflict Data for Africa 1997 - 2016.</description>
+      <description>Analysis and visualisation of Conflict Data for Africa 1997 - 2016.
+The explainer notebook can be found [here](). </description>
     </item>
     
   </channel>
